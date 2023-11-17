@@ -2,7 +2,6 @@
 
 body{
 	background-color: lightyellow;
-	
 }
 .tabla {
 	border: solid .1rem;
@@ -10,9 +9,7 @@ body{
 	background-color: gainsboro;
 	width: 100%;
 	border-collapse: collapse;
-	height: 200px;
-	
-	
+	height: 200px;	
 }
 
 
@@ -22,7 +19,9 @@ th{
 
 .tete{
 	margin: 2rem;
-	overflow: visible;
+	overflow: scroll;
+	height: 200px;
+	width: 100%;
 }
 
 
